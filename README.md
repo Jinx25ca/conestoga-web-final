@@ -1,2 +1,2 @@
-# conestoga-web-final
+# web-final
 This is ths Final Exam - Part B (20%)
